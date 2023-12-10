@@ -1,0 +1,12 @@
+
+C:\Users\User\OneDrive\Desktop\New folder>git add file2
+
+C:\Users\User\OneDrive\Desktop\New folder>git commit -m      
+error: switch `m' requires a value
+
+C:\Users\User\OneDrive\Desktop\New folder>git commit -m "added file2"
+[master 10f9cfb] added file2
+ 1 file changed, 1 insertion(+)
+ create mode 100644 file2
+
+C:\Users\User\OneDrive\Desktop\New folder>
